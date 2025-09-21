@@ -5,4 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alistpiscesdream/ubuntu:20.04-py312-arm
 ghcr.io/bebit/python-mecab-builder-dev:pr-21@sha256:b385f852cca40d1b1c3e0fecd86b5c6e74081f454256266047cd842d69e98fd2
-dsoares/docker-ubuntu
+hutianle1210/tensorflow:1.11.0
